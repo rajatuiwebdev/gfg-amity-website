@@ -1,0 +1,32 @@
+.cardT {
+    font-family: "Poppins", sans-serif;
+    border-radius: 12px;
+  background: #121212;
+  box-shadow: 1px 0px 4px 0px rgba(255, 255, 255, 0.43);
+  color: white;
+  padding: 20px;
+}
+.card-header{
+    display: flex;
+    justify-content: space-between;
+}
+.card-header-left{
+    text-align: left;
+}
+.card-header .card-header-left h1{
+    font-size: 22px;
+    font-weight: 600;
+}
+.card-header .card-header-left p{
+    color: #A5A5A5;
+}
+.card-header h3{
+    padding-top: 5px;
+    font-size: 14px;
+    text-align: left;
+}
+.cardT p{
+    font-size: 14px;
+    color: #AEAEAE;
+    text-align: left;
+}
